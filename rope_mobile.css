@@ -1,0 +1,307 @@
+body{
+  font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:0.813em;
+  line-height: 1em;
+  color: #333;
+  background-color: #f6f3f3;
+  font-size:1em;
+  font-family: -apple-system,Roboto,"Open Sans","Segoe UI",UILanguageFont,sans-serif,Arial,Tahoma;
+  font-weight: normal;
+}
+
+
+.hd{
+
+	background-color: #2c5cd7;
+	height: 150px;
+	
+
+}
+
+
+.hdx{
+
+	background-color: #2c5cd7;
+	width: 100%;
+	height: 150px;
+	
+
+}
+
+
+.plist{
+	background-color: white; 
+	width: auto; 
+	height: 80px; 
+	padding: 5px;
+	border-radius: 5px;
+	
+}
+
+
+.x{
+	color: red;
+	font-size: 15px;
+}
+
+
+.xy{
+	color: green;
+	font-size: 15px;
+}
+
+
+.sx{
+	background-color: white;
+	color: black;
+	border: none;
+	width: 120%;
+	height: 55px;
+	font-size: 15px;
+	padding: 5px;
+	border-radius: 5px;
+}
+
+.nwcontent{
+
+	background-color: white;
+	width: auto;
+	padding: 2px;
+	border-radius: 5px;
+	box-shadow: 1px 2px 3px 4px rgba(5, 6, 4, 0.1);
+
+
+
+}
+
+
+b{
+	font-size: 1em;
+}
+
+.nwcontent_l{
+
+	background-color: white;
+	width: 100%;
+	height: 560px;
+	border-radius: 5px;
+	padding: 2px;
+	box-shadow: 1px 2px 3px 4px rgba(5, 6, 4, 0.1);
+
+
+
+}
+
+
+
+
+.nwcontent_l_reg{
+
+	background-color: white;
+	width: 100%;
+	height: 700px;
+	border-radius: 5px;
+	padding: 2px;
+	box-shadow: 1px 2px 3px 4px rgba(5, 6, 4, 0.1);
+
+
+
+}
+
+
+b{
+	font-size: 17px;
+}
+
+
+.nwcontent_l_regx{
+
+	background-color: white;
+	width: 100%;
+	height: 740px;
+	border-radius: 5px;
+	padding: 2px;
+	box-shadow: 1px 2px 3px 4px rgba(5, 6, 4, 0.1);
+
+
+
+}
+
+
+
+
+
+
+a:link,a:visited,a:active{
+	color: #060;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: none;
+	color: #fff;
+	background-color: #6aab50;
+	border-radius: 4px;
+}
+
+
+.blogin{
+	background-color: #f6f3f3;
+	border: none;
+	width: 90%;
+	height: 50px; 
+    font-size: 15px;
+    padding: 5px;
+    border-radius: 5px; 
+
+}
+
+
+.btext{
+	background-color: #f6f3f3;
+	font-family: arial;
+	border: none;
+	width: 90%;
+	height: 440px; 
+    font-size: 15px;
+    padding: 5px;
+    border-radius: 5px; 
+    padding: 5px;
+
+}
+
+
+h2{
+	font-size: 1em;
+}
+
+
+
+.vlogin-reg-btn{
+	background-color: #15e16c;
+	width: 90%;
+	color: white;
+	height: 50px;
+	border-radius: 5px;
+	border: none;
+}
+
+
+.vlogin{
+	background-color: #2c5cd7;
+	width: 25%;
+	color: white;
+	height: 40px;
+	border-radius: 5px;
+	border: none;
+}
+
+
+
+.lo{
+
+	background-color: #2c5cd7;
+	width: 25%;
+	color: white;
+	height: 50px;
+	border-radius: 5px;
+	border: none;
+
+}
+
+
+
+.lop{
+
+	background-color: #2c5cd7;
+	width: 50%;
+	color: white;
+	height: 50px;
+	border-radius: 5px;
+	border: none;
+
+}
+
+.xplace{
+
+	background-color: #f6f3f3;
+	width: 70%;
+	color: white;
+	height: 50px;
+	border-radius: 5px;
+	border: none;
+	color: black;
+
+
+
+
+}
+
+.vlogin_b{
+	background-color: #2c5cd7;
+	width: 90%;
+	color: white;
+	height: 50px;
+	border-radius: 5px;
+	border: none;
+}
+
+.vlogin-reg{
+	background-color: #15e16c;
+	width: 25%;
+	color: white;
+	height: 40px;
+	border-radius: 5px;
+	border: none;
+}
+
+.nwcontent-ftlogin{
+
+	background-color: white;
+	box-shadow: 1px 2px 3px 4px rgba(5, 6, 4, 0.1);
+	width: 100%;
+	height: 130px;
+	padding: 2px;
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+
+
+}
+
+
+.btn-back{
+
+	background-color: #15e16c;
+	width: 25%;
+	color: white;
+	height: 40px;
+	border-top-left-radius: 10px;
+	border-radius: 10px;
+	border: none;
+
+
+}
+
+
+button{
+	background-color: transparent;
+	border: none;
+}
+
+
+
+
+.nwcontent-ftlogin-c{
+
+	background-color: white;
+	box-shadow: 1px 2px 3px 4px rgba(5, 6, 4, 0.1);
+	width: 100%;
+	height: 70px;
+	padding: 2px;
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+
+
+}
+
+
